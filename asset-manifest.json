@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ibrahim-t.github.io/shipping-box/static/css/main.fb665e37.css",
+    "main.js": "/ibrahim-t.github.io/shipping-box/static/js/main.13db81e2.js",
+    "static/js/453.94dea956.chunk.js": "/ibrahim-t.github.io/shipping-box/static/js/453.94dea956.chunk.js",
+    "index.html": "/ibrahim-t.github.io/shipping-box/index.html",
+    "main.fb665e37.css.map": "/ibrahim-t.github.io/shipping-box/static/css/main.fb665e37.css.map",
+    "main.13db81e2.js.map": "/ibrahim-t.github.io/shipping-box/static/js/main.13db81e2.js.map",
+    "453.94dea956.chunk.js.map": "/ibrahim-t.github.io/shipping-box/static/js/453.94dea956.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb665e37.css",
+    "static/js/main.13db81e2.js"
+  ]
+}
