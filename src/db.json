@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "recieverName": "John Doe",
+        "weight": 5,
+        "color": "#ff5733",
+        "destinationCountry": "Sweden",
+        "calculatedCost": "36.75"
+    },
+    {
+        "id": 2,
+        "recieverName": "Jane Smith",
+        "weight": 10,
+        "color": "#33ff57",
+        "destinationCountry": "China",
+        "calculatedCost": "115.30"
+    }
+]
