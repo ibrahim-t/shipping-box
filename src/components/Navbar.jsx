@@ -13,18 +13,18 @@ export const NavbarWidget = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link type='' onClick={e => { e.preventDefault(); navigate("/") }}  >
+            <Nav.Link type='' onClick={e => { e.preventDefault(); navigate("/shipping-box") }}  >
 
               <Button variant=''>
                 Home
               </Button>
             </Nav.Link>
-            <Nav.Link onClick={e => { e.preventDefault(); navigate("/addBox") }} >
+            <Nav.Link onClick={e => { e.preventDefault(); navigate("/shipping-box/addBox") }} >
               <Button variant=''>
                 Add Box
               </Button>
             </Nav.Link>
-            <Nav.Link onClick={e => { e.preventDefault(); navigate("/listbox") }} >
+            <Nav.Link onClick={e => { e.preventDefault(); navigate("/shipping-box/listbox") }} >
               <Button variant=''>
                 View Boxes
               </Button>

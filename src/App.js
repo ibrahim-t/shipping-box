@@ -16,10 +16,10 @@ function App() {
         <NavbarWidget />
       </Row>
       <Row>
-        <Routes>
-          <Route path="/" element={<HomePage/>} />
-          <Route path="/addBox" element={<AddBox />} />
-          <Route path="/listbox" element={<ListBox />} />
+        <Routes >
+          <Route  path="/shipping-box/" element={<HomePage/>} />
+          <Route path="shipping-box/addBox" element={<AddBox />} />
+          <Route path="shipping-box/listbox" element={<ListBox />} />
         </Routes>
       </Row>
     </Container>

@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ibrahim-t.github.io/shipping-box",
   "name": "shipping-box",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ibrahim-t.github.io/shipping-box",
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
     "@testing-library/dom": "^10.4.1",

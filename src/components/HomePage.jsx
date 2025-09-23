@@ -11,12 +11,12 @@ const HomePage = () => {
         <Container  style={{marginTop:100}}>
             <Row className="justify-content-md-center "  style={{border: '1px solid #ccc',paddingTop:30, borderRadius: '5px',backgroundColor:"#f8f9fa"}} >
                 <Col md={"6"} sm={"12"} lg={"3"}  style={{textAlign:"center",marginBottom:50}} >
-                    <Button size='lg'  color='' style={{padding:60,backgroundColor:"#007bff"}}  variant='primary' onClick={e=>{e.preventDefault();navigate("/addBox") }} >
+                    <Button size='lg'  color='' style={{padding:60,backgroundColor:"#007bff"}}  variant='primary' onClick={e=>{e.preventDefault();navigate("/shipping-box/addBox") }} >
                         Add Box
                     </Button>
                 </Col>
                 <Col  md={"6"} sm={"12"} lg={"3"}  style={{textAlign:"center"}}>
-                <Button style={{padding:60,backgroundColor:"#6c757d"}} color=''  variant='primary' onClick={e=>{e.preventDefault();navigate("/listbox") }} >
+                <Button style={{padding:60,backgroundColor:"#6c757d"}} color=''  variant='primary' onClick={e=>{e.preventDefault();navigate("/shipping-box/listbox") }} >
                         View  Boxes
                     </Button></Col>
             </Row>
