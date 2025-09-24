@@ -15,7 +15,7 @@ const HomePage = () => {
                         Add Box
                     </Button>
                 </Col>
-                <Col  md={"6"} sm={"12"} lg={"3"}  style={{textAlign:"center"}}>
+                <Col  md={"6"} sm={"12"} lg={"3"}  style={{textAlign:"center", marginBottom:30}}>
                 <Button style={{padding:60,backgroundColor:"#6c757d"}} color=''  variant='primary' onClick={e=>{e.preventDefault();navigate("/shipping-box/listbox") }} >
                         View  Boxes
                     </Button></Col>

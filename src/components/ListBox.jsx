@@ -31,6 +31,7 @@ const ListBox = () => {
                             <td>
                                 <Form.Control
                                     readOnly
+                                    disabled
                                     type="color"
                                     id="exampleColorInput"
                                     defaultValue={item.color}
