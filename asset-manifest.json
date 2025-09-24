@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shipping-box/static/css/main.fb665e37.css",
-    "main.js": "/shipping-box/static/js/main.25392200.js",
+    "main.js": "/shipping-box/static/js/main.fd89b2ec.js",
     "static/js/453.94dea956.chunk.js": "/shipping-box/static/js/453.94dea956.chunk.js",
     "index.html": "/shipping-box/index.html",
     "main.fb665e37.css.map": "/shipping-box/static/css/main.fb665e37.css.map",
-    "main.25392200.js.map": "/shipping-box/static/js/main.25392200.js.map",
+    "main.fd89b2ec.js.map": "/shipping-box/static/js/main.fd89b2ec.js.map",
     "453.94dea956.chunk.js.map": "/shipping-box/static/js/453.94dea956.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb665e37.css",
-    "static/js/main.25392200.js"
+    "static/js/main.fd89b2ec.js"
   ]
 }
